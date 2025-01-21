@@ -144,6 +144,6 @@ License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
 
 Support
-If you encounter any issues or have questions, feel free to open an issue in this repository or contact me at your-email@example.com.
+If you encounter any issues or have questions, feel free to open an issue in this repository or contact me at minthukywe2020@gmail.com.
 
 Enjoy exploring breast cancer classification using PCA and KNN in Jupyter Notebook! 🚀
